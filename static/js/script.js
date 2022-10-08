@@ -5,6 +5,7 @@
 * Dismiss-able notifications/alerts
 * Forms and multiple choice answers can be submitted with the ```enter``` key
 * Checks that all text inputs and radio buttons have been entered/selected before submission of create and edit quiz
+* Dynamic quiz creation option
 */
 
 var quiz;
